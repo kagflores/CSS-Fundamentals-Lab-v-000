@@ -14,7 +14,7 @@ nav {
   text-align: center;
 }
 nav a {
-  padding: 10px;
+  padding-bottom: 10px;
   background-color: lightblue;
 }
 figcaption {
