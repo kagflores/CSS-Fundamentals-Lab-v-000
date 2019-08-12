@@ -19,7 +19,7 @@ nav a {
   padding-right: 10px;
   text-align: center;
   background-color: lightblue;
-  margin: auto;
+  margin: 0;
 }
 figcaption {
   text-align: center;
